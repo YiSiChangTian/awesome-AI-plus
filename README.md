@@ -21,3 +21,9 @@ B站：[逸思长天](https://space.bilibili.com/521945353)
 采访PPT：本项目documents文件夹下
 
 采访视频：https://www.bilibili.com/video/BV1wz421f7Rj/
+
+## 水产行业-于同学
+
+采访PPT：本项目documents文件夹下
+
+采访视频：待更新
