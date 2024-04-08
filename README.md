@@ -26,4 +26,10 @@ B站：[逸思长天](https://space.bilibili.com/521945353)
 
 采访PPT：本项目documents文件夹下
 
-采访视频：待更新
+采访视频：https://www.bilibili.com/video/BV1Kx4y1m7Ki/
+
+## 材料学科-季同学
+
+采访PPT：本项目documents文件夹下
+
+采访视频：https://www.bilibili.com/video/BV1LD421s7gv/
