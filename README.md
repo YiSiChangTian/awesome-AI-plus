@@ -39,3 +39,9 @@ B站：[逸思长天](https://space.bilibili.com/521945353)
 采访PPT：本项目documents文件夹下
 
 采访视频：https://www.bilibili.com/video/BV1nJ4m1H73n/
+
+## 3D打印学科-卢同学
+
+采访PPT：本项目documents文件夹下
+
+采访视频：https://www.bilibili.com/video/BV1bC411H7tf/
