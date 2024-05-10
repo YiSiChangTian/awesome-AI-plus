@@ -1,15 +1,13 @@
 <div align="center">
     <a href="https://changtianml.com"><img src="assets/logo.png"/></a>
     <h1>awesome-AI-plus</h1>
-    <h1>人工智能+</h1>
+    <h1>人工智能+百行交流</h1>
     <h3>🌟致力于AI for science的交叉学科融合。</h3>
 </div>
 
-**🎯项目愿景**：交叉学科融合正在成为新时代的发展机遇，两会期间总理也提出人工智能是发展新质生产力的重要引擎。逸思长天团队长期对人工智能技术深耕，想通过学科行业交流的形式，以人工智能赋能作为“催化剂”，汇聚多学科力量，共同聚焦产业真需求、挖掘前沿真难点，促进大学与社会、科研与服务、学科建设与产业需求之间的紧密协同。
+**🎯项目愿景**：交叉学科融合正在成为新时代的发展机遇，两会期间总理也提出人工智能是发展新质生产力的重要引擎。逸思长天团队长期对人工智能技术深耕，想通过上百个学科行业交流的形式，以人工智能赋能作为“催化剂”，汇聚多学科力量，共同聚焦产业真需求、挖掘前沿真难点，促进大学与社会、科研与服务、学科建设与产业需求之间的紧密协同。
 
-**🤝联系我们**：微信添加**afan-life** 进入“人工智能+”交流社群，每周收看百行交流在线直播。也欢迎大家与我们联系合作分享，你将获得长天ML自动化建模平台的免费月卡，以及现金奖励。
-
-**🌐B站**：[逸思长天](https://space.bilibili.com/521945353) | **微信公众号**：[逸思长天](http://weixin.qq.com/r/pRFBWXnEDSRyrT0690S3)
+**🤝联系我们**：微信添加**afan-life** 进入“人工智能+”交流社群，每周收看百行交流在线直播。
 
 # 🔀目录
 
@@ -29,7 +27,9 @@
 
 - [3D打印学科](#3D打印学科)
 
-[人工智能工具](#人工智能工具)
+[AI工具](#AI工具)
+
+[参与贡献](#参与贡献)
 
 # 📝采访记录
 
@@ -122,6 +122,12 @@
 - 基于工业大数据的智能高炉炼铁技术的关键问题与进展 [Key issues and progress of industrial big data-based intelligent blast furnace ironmaking technology](https://link.springer.com/article/10.1007/s12613-023-2636-3)
 
 - 华为矿山军团 [基于盘古大模型的人工智能新架构的钢铁工业人工智能解决方案](https://e.huawei.com/cn/industries/mining/mine-ict-technology-enablement/mine-foundation-model)
+
+**人工智能实践教学**：
+
+- 场景+数据+建模实战：[使用自动化建模工具进行钢板缺陷检测](https://www.bilibili.com/video/BV1Jm411m7TC/)
+
+- 场景+建模思考：[缺陷检测任务只能用纯图像识别吗？](https://www.bilibili.com/video/BV1im421x7xd/)
 
 ## 水产行业
 
@@ -317,6 +323,16 @@
 
 - 基于图像分析的熔丝增材制造闭环质量控制：[Image analysis-based closed loop quality control for additive manufacturing with fused filament fabrication](https://linkinghub.elsevier.com/retrieve/pii/S0278612518304060)
 
-# 人工智能工具
+**人工智能实践教学**：
+
+- 场景+数据+建模实战：[建模实战！3D打印粗糙度预测](https://www.bilibili.com/video/BV1yH4y1V7Ns/)
+
+# AI工具
 
 - **长天ML自动化建模平台**：零代码建模，降低非计算机专业同学的使用成本。简单配置即可进行自动化特征工程、自动化模型选择和超参调优，并能快速部署上线，建模过程完全免费，高级功能可通过邀请好友的形式获取免费次卡，或付费包月或加入社群参与活动。[官网](https://changtianml.com/) [注册地址](https://changtianml.com/register?code=gJKeasrbu+JDNZ3XYLpZDw==)
+
+# 参与贡献
+
+欢迎大家与我们联系合作分享，为AI+各行业学科做出自己的贡献，微信添加**afan-life**，你将获得长天ML自动化建模平台的免费月卡，以及现金奖励。
+
+![](assets/contact.png)
