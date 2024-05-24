@@ -27,6 +27,10 @@
 
 - [3D打印学科](#3D打印学科)
 
+- [集成电路](#集成电路)
+
+- [脑科学](#脑科学)
+
 [AI工具](#AI工具)
 
 [参与贡献](#参与贡献)
@@ -35,17 +39,21 @@
 
 ## 视频版
 
-- 环境经济学-陈同学 https://www.bilibili.com/video/BV1qw4m1R73K/  
+- 环境经济学-陈同学 https://www.bilibili.com/video/BV1qw4m1R73K/  
 
-- 钢铁冶金-宋同学 https://www.bilibili.com/video/BV1wz421f7Rj/  
+- 钢铁冶金-宋同学 https://www.bilibili.com/video/BV1wz421f7Rj/  
 
-- 水产行业-于同学 https://www.bilibili.com/video/BV1Kx4y1m7Ki/  
+- 水产行业-于同学 https://www.bilibili.com/video/BV1Kx4y1m7Ki/  
 
-- 材料学科-季同学 https://www.bilibili.com/video/BV1LD421s7gv/  
+- 材料学科-季同学 https://www.bilibili.com/video/BV1LD421s7gv/  
 
-- 金融学科-于同学 https://www.bilibili.com/video/BV1nJ4m1H73n/  
+- 金融学科-于同学 https://www.bilibili.com/video/BV1nJ4m1H73n/  
 
-- 3D打印学科-卢同学 https://www.bilibili.com/video/BV1bC411H7tf/  
+- 3D打印学科-卢同学 https://www.bilibili.com/video/BV1bC411H7tf/  
+
+- 集成电路-刘同学 https://www.bilibili.com/video/BV1nz42117MX/
+
+- 脑科学-江同学 https://www.bilibili.com/video/BV1A7421Z7Sj/
 
 ## 文字版
 
@@ -326,6 +334,14 @@
 **人工智能实践教学**：
 
 - 场景+数据+建模实战：[建模实战！3D打印粗糙度预测](https://www.bilibili.com/video/BV1yH4y1V7Ns/)
+
+## 集成电路
+
+待整理
+
+## 脑科学
+
+待整理
 
 # AI工具
 
