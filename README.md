@@ -1,13 +1,13 @@
 <div align="center">
     <a href="https://changtianml.com"><img src="assets/logo.png"/></a>
     <h1>awesome-AI-plus</h1>
-    <h1>人工智能+百行交流</h1>
+    <h1>人工智能</h1>
     <h3>🌟致力于AI for science的交叉学科融合。</h3>
 </div>
 
 **🎯项目愿景**：交叉学科融合正在成为新时代的发展机遇，两会期间总理也提出人工智能是发展新质生产力的重要引擎。逸思长天团队长期对人工智能技术深耕，想通过上百个学科行业交流的形式，以人工智能赋能作为“催化剂”，汇聚多学科力量，共同聚焦产业真需求、挖掘前沿真难点，促进大学与社会、科研与服务、学科建设与产业需求之间的紧密协同。
 
-**🤝联系我们**：微信添加**afan-life** 进入“人工智能+”交流社群，每周收看百行交流在线直播。
+**🤝联系我们**：微信添加**afan-life** 进入“人工智能+”交流社群，收看百行交流在线直播。
 
 # 🔀目录
 
@@ -15,21 +15,7 @@
 
 [学科知识](#学科知识)
 
-- [环境经济学](#环境经济学)
-
-- [钢铁冶金](#钢铁冶金)
-
-- [水产行业](#水产行业)
-
-- [材料学科](#材料学科)
-
-- [金融学科](#金融学科)
-
-- [3D打印学科](#3D打印学科)
-
-- [集成电路](#集成电路)
-
-- [脑科学](#脑科学)
+> [环境经济学](#环境经济学)、[钢铁冶金](#钢铁冶金)、[水产行业](#水产行业)、[材料学科](#材料学科)、[金融学科](#金融学科)、[3D打印学科](#3D打印学科)、[集成电路-失效分析](#集成电路-失效分析)、[脑科学-脑影像](#脑科学-脑影像)、[核医学](#核医学)
 
 [AI工具](#AI工具)
 
@@ -37,37 +23,19 @@
 
 # 📝采访记录
 
-## 视频版
+文字版：参考本项目下的[text_version](./text_version)文件夹。
 
-- 环境经济学-陈同学 https://www.bilibili.com/video/BV1qw4m1R73K/  
+分享资料：参考本项目下的[documents](./documents)文件夹。
 
-- 钢铁冶金-宋同学 https://www.bilibili.com/video/BV1wz421f7Rj/  
-
-- 水产行业-于同学 https://www.bilibili.com/video/BV1Kx4y1m7Ki/  
-
-- 材料学科-季同学 https://www.bilibili.com/video/BV1LD421s7gv/  
-
-- 金融学科-于同学 https://www.bilibili.com/video/BV1nJ4m1H73n/  
-
-- 3D打印学科-卢同学 https://www.bilibili.com/video/BV1bC411H7tf/  
-
-- 集成电路-刘同学 https://www.bilibili.com/video/BV1nz42117MX/
-
-- 脑科学-江同学 https://www.bilibili.com/video/BV1A7421Z7Sj/
-
-## 文字版
-
-参考本项目下的[text_version](./text_version)文件夹。
-
-## 分享资料
-
-参考本项目下的[documents](./documents)文件夹。
+视频资料：在[学科知识](#🔬学科知识)对应的学科目录下
 
 # 🔬学科知识
 
 学科知识是从采访记录中抽取的行业学科知识。
 
 ## 环境经济学
+
+**采访视频**：环境经济学-陈同学 https://www.bilibili.com/video/BV1qw4m1R73K/
 
 **研究目标**：环境经济学是指运用经济科学与环境科学的原理和方法，这就这里面就体现了环境经济，它本身也是一种交叉学科的一种一种延伸，分析经济发展与环境保护的矛盾以及经济再生产人口再生产和自然再生产这三者之间的联系。选择经济合理的物质变换方式以使用最小的劳动消耗为人类创造清洁、舒适、优美的生活和工作环境。
 
@@ -96,6 +64,8 @@
 - 使用LSTM进行碳排放预测：[How can China achieve the 2030 carbon peak goal—a crossover analysis based on low-carbon economics and deep learning ](https://www.sciencedirect.com/science/article/abs/pii/S0360544223001706)
 
 ## 钢铁冶金
+
+**采访视频**：钢铁冶金-宋同学 https://www.bilibili.com/video/BV1wz421f7Rj/
 
 **研究目标**：面向国家重大工程与重点项目，通过冶金过程的智能化、绿色化、高效化，发展先进金属材料的制备技术；面向国民经济主战场，打造绿色、智能与材料冶金技术，最大限度地减少冶金工艺过程的资源和能源消耗，实现对冶金资源的高值化利用；面向国际前沿，围绕先进金属材料、冶金过程的前沿理论，构建多学科交融理论体系。
 
@@ -138,6 +108,8 @@
 - 场景+建模思考：[缺陷检测任务只能用纯图像识别吗？](https://www.bilibili.com/video/BV1im421x7xd/)
 
 ## 水产行业
+
+**采访视频**：水产行业-于同学 https://www.bilibili.com/video/BV1Kx4y1m7Ki/
 
 **学科定义**：水产学是一门研究水域环境中经济动植物捕捞、增养殖与理论与工程技术的综合性国家一级学科。水产或者渔业的英文是 “Aquaculture”或“Fisheries” 。简而言之，即利用“水域资源”，开展“鱼、虾、贝、藻”等水生动植物的生产。按照渔业生产水域的不同，被划分为海洋渔业、淡水渔业。根据生产方式的不同，被划分为捕捞渔业和水产养殖。
 
@@ -203,6 +175,8 @@
 
 ## 材料学科
 
+**采访视频**：材料学科-季同学 https://www.bilibili.com/video/BV1LD421s7gv/
+
 **学科定义**：材料科学是一门研究材料的结构、性质、制备和应用的学科。它涵盖了从原子、分子层面到宏观物质的各种性质和特征的研究，旨在开发新材料，改进现有材料的性能，并探索材料在各种应用领域的潜在用途。
 
 **学科分类**：
@@ -230,6 +204,8 @@
 - 触觉传感器件结合机器学习有望应用于一些无视野或人无法前往的特种领域：[A high-accuracy, real-time, intelligent material perception system with a machine-learning-motivated pressure-sensitive electronic skin](https://www.sciencedirect.com/science/article/pii/S2590238522000674)
 
 ## 金融学科
+
+**采访视频**：金融学科-于同学 https://www.bilibili.com/video/BV1nJ4m1H73n/
 
 **研究方向**：宏观：货币政策、国际金融、金融监管；中观：资本市场，如银行、证券、保险、基金等；微观：公司金融、家庭金融。
 
@@ -289,6 +265,8 @@
 
 ## 3D打印学科
 
+**采访视频**：3D打印学科-卢同学 https://www.bilibili.com/video/BV1bC411H7tf/
+
 **学科定义**：增材制造（Additive Manufacturing，简称AM），俗称3D打印，是一种基于数字模型文件，通过逐层添加材料来制造实体物品的技术。它融合了计算机辅助设计、材料加工与成型技术，以数字模型文件为基础，通过软件与数控系统将专用的金属材料、非金属材料以及医用生物材料等，按照挤压、烧结、熔融、光固化、喷射等方式逐层堆积，从而制造出实体物品。
 
 **核心方法**：
@@ -331,17 +309,74 @@
 
 - 基于图像分析的熔丝增材制造闭环质量控制：[Image analysis-based closed loop quality control for additive manufacturing with fused filament fabrication](https://linkinghub.elsevier.com/retrieve/pii/S0278612518304060)
 
-**人工智能实践教学**：
+## 集成电路-失效分析
 
-- 场景+数据+建模实战：[建模实战！3D打印粗糙度预测](https://www.bilibili.com/video/BV1yH4y1V7Ns/)
+**采访视频**：集成电路-刘同学 https://www.bilibili.com/video/BV1nz42117MX/：
 
-## 集成电路
+**行业位置**：那么集成电路行业呢从源头来看的话主要是芯片设计，然后呢会把设计图纸给这个晶圆厂进行晶圆的生产。然后那个晶圆厂生产好之后呢，会把晶圆送到封测厂进行封装，最后做测试。那么在整个这些生产工艺的过程中，包括生产出来之后的成品都会进行一些测试。那么测试呢就会产生一些不良，也就是达不到测试的要求产品。那么这个东西呢是不能卖给客户的，所以呢要在这个厂内进行一些销毁或者是我们叫lose掉，就是淘汰掉。那么中间产生出来的这些不良品呢，我们把它称为reject，rejection的意思。然后这些不良品就会做这个失效分析。
 
-待整理
+**研究目标**：追求的目标其实就是找到这个根本原因，就是所谓的Root Cause。找到这个失效分析的根因呢，实际上不是那么简单的，不是发现一个物理失效点就能解释的，它涉及到方方面面。比方说这个背景调查，比方说共性的调查啊，然后包括要做一些仿真，然后包括做这个就是档案库的一些管理。那么这些拼图拼起来最后可能才能拼出一个真正的这个失效的原因，然后才能就是反馈给这个生产也好反馈给设计也好去做相应的改善。
 
-## 脑科学
+**顶级期刊**：
 
-待整理
+- ISTFA: International Symposium for Testing and Failure Analysis
+
+- IPFA: International Symposium on Physical & Failure Analysis of Integrated Circuits
+
+- ESREF: European Symposium on Reliability of Electron, Devices Failure Physics and Analysis
+
+- IRPS: International Reliability Physics Symposium
+
+**人工智能+成果**：
+
+- AI+X-ray的图像扫描的3D重构：[Accelerate Your 3D X-ray Failure Analysis by Deep Learning High Resolution Reconstruction](https://web.archive.org/web/20211103093759id_/https://watermark.silverchair.com/istfa2021p0291.pdf)
+- MOS管缺陷目标识别：[The Application of Machine Learning in the Next Frontier of Failure Analysis Fault Isolation](https://designthesolution.org/wp-content/uploads/2022/09/The-Application-of-Machine-Learning-in-the-Next-Frontier-of-Failure-Analysis-Fault-Isolation.pdf)
+- 利用深度学习算法对超声信号进行高精度解析：[Automated Defect Classification In Semiconductor Devices Using Deep Learning Networks](https://ieeexplore.ieee.org/document/9915706)
+- 通过工艺仿真软件生成缺陷数据库+机器学习：[TCAD-Enabled Machine Learning Defect Prediction to Accelerate Advanced Semiconductor Device Failure Analysis](https://ieeexplore.ieee.org/document/8870440)
+
+## 脑科学-脑影像
+
+**采访视频**：脑科学-江同学 https://www.bilibili.com/video/BV1A7421Z7Sj/
+
+**研究目标**：在我们现行的教育体系当中最相近的专业可能就是有两个，那一个是这个生物医学工程，还有一个是这个心理学。那么生物医学工程它主要偏向的可能是跟脑部相关的一些疾病，会去研究脑相关的主要可能是跟脑紧密结合的疾病，比如说可能有一些这个脑卒中也就是俗称的中风，还有脑肿瘤，还有一些神经神经的疾病包括一些精神分裂、抑郁症之类的这种精神类疾病。它是跟医学可能紧密程度会高一点，那么心理学的话呢它主要是探究脑的这个认知功能，所以说其实这两个专业都是跟这个脑呢特别相关。分享人这边主要是偏向前者，但是从底层的科研上来说呢，去探究脑的功能其实也是相通的，所以说我们可能有类似的一套这个方法，有类似的一些工具处理技术。所以说这两个其实还是汇聚到一起了。
+
+**脑影像的作用**：通过磁共振影像可以探究这个大脑内部的一个结构，所以我们也把这个脑影像也叫做大脑指纹。也就是说我们现在基于多模态的这个磁共振影像的大脑指纹。可以把这个大脑的这个<u>结构、功能、代谢</u>这样不同的模式来分析个体的大脑结构功能还有这个代谢特征。所以每个人的大脑都是独一无二的，这样我们每个人的脑影像也是独一无二的。那么这种技术它可以用来在个体之间的大脑差异比较还有疾病诊断，以及这个治疗评估等等。那么也是通过深入挖掘这个大脑主人的信息，也可以更好的去理解一些大脑些疾病。
+
+**脑影像的重要性**：因为脑它这个器官是非常特殊的，它的内部的结构非常的复杂，然后神经元的数量也非常的多，所以它本身是一个非常高度复杂的器官。并且呢人脑的活检的风险是非常高的，就是说对于一个活体直接检查它的大脑这个其实是很难去直接检查，因为我们最早探究大脑结构是通过解剖学的方法去找到它的大脑的结构初始的图像，在古代其实没有办法在活人的这个身上去实现，所以这个<u>活检风险也非常高</u>。那么<u>血脑屏障也非常难穿越</u>，它是这个脑血管壁上的一种保护性的屏障，它可以限制像药物去从血液当中渗透到这个脑组织当中，所以说这一系列因素就导致诊断脑部疾病的方法和手段就比较少，那么<u>唯一的无创方法就是脑影像</u>，所以脑影像其实在脑科学当中占据了非常重要的位置。
+
+**顶级期刊**：
+
+- Brain 临床神经学类期刊
+
+- JMRI 美国国际医学磁共振学会旗下期刊
+
+**人工智能+成果**：
+
+- [Nature 长文综述：类脑智能与脉冲神经网络前沿](https://www.sohu.com/a/357688644_741733?qq-pf-to=pcqq.group)
+
+- [高分医学SCI解读：人工智能AI在缺血性脑卒中成像中的应用](https://zhuanlan.zhihu.com/p/614714309)
+
+- [利用AI提高脑动脉瘤检测准确率，显著减少临床医生诊断时间检查](https://www.sohu.com/a/320012397_114877)
+
+## 核医学
+
+**采访视频**：核医学-陆同学 https://www.bilibili.com/video/BV16w4m1i73V/
+
+**学科定义及范畴**：核医学是利用放射性同位素产生的核辐射来诊断、治疗疾病以及进行医学研究的学科。包括临床核医学和基础核医学两大领域。临床核医学主要涉及核素诊断与治疗，如放射性核素显像、功能测定等；基础核医学则侧重于放射性核素在生物医学领域的应用研究，如放射性核素示踪技术等。
+
+**顶级期刊**：
+
+- The Journal of Nuclear Medicine
+
+- Clinical Nuclear Medicine
+
+**人工智能+成果**：
+
+- [基于深度学习及Delta影像组学的唾液腺显像在甲状腺癌术后及 131I 治疗后唾液腺损伤评估中的价值](https://rs.yiigle.com/cmaid/1491429)
+
+- [Development of a predictive nomogram for intermediate-risk differentiated thyroid cancer patients after fixed 3.7GBq (100mCi) radioiodine remnant ablation](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2024.1361683/full)
+
+- [基于增强CT影像组学预测甲状腺乳头状癌BRAFV600E突变](https://www.zhangqiaokeyan.com/academic-journal-cn_labeled-immunoassays-clinical-medicine_thesis/02012115719926.html)
 
 # AI工具
 
