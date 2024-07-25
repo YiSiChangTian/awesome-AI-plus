@@ -11,15 +11,66 @@
 
 # 🔀目录
 
+[建模实战](#建模实战)
+
 [采访记录](#采访记录)
 
 [学科知识](#学科知识)
 
 > [环境经济学](#环境经济学)、[钢铁冶金](#钢铁冶金)、[水产行业](#水产行业)、[材料学科](#材料学科)、[金融学科](#金融学科)、[3D打印学科](#3D打印学科)、[集成电路-失效分析](#集成电路-失效分析)、[脑科学-脑影像](#脑科学-脑影像)、[核医学](#核医学)
 
+[AI知识](#AI知识)
+
+> [思考/误区](#思考/误区) [初级知识](#初级知识) [前沿理论](#前沿理论) [教程推荐](#教程推荐)
+
 [AI工具](#AI工具)
 
 [参与贡献](#参与贡献)
+
+# 🔖建模实战
+
+收录了逸思长天团队的建模实战案例，每个案例均有数据，部分还有加工处理代码，大家可以联系我们获取（微信：afan-life）
+
+| 日期       | 建模名称                                                                     | 类型标签                                                             | 行业   |
+| -------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------- | ---- |
+| 23.11.12 | [用户流失预警建模](https://www.bilibili.com/video/BV1ZC4y1776Q/)                 | 生命周期 \| LTV \| 沉睡 \| 唤醒                                          | 营销   |
+| 23.11.28 | [心脏病患者建模预测](https://www.bilibili.com/video/BV1XN411j7GQ/)                | 心脏病 \| 心脑血管 \| BMI \| CDC                                        | 医疗   |
+| 23.12.11 | [利用自动化机器学习建立酒店预定预测模型](https://www.bilibili.com/video/BV1DN4y1a7Q7/?)     | 酒店 \| 携程 \| 飞猪 \| 途牛 \| 去哪儿                                      | 旅游   |
+| 23.12.12 | [利用自动化机器学习建立公司破产预测模型](https://www.bilibili.com/video/BV1Bb4y157cG/)      | 破产 \| 重组 \| 违约 \| 清算                                             | 资产评估 |
+| 23.12.13 | [利用自动化机器学习建立中风患者预测模型](https://www.bilibili.com/video/BV1sw411t78c/)      | 中风 \| 卒中 \| 心脑血管 \| 猝死                                           | 医疗   |
+| 23.12.14 | [利用自动化机器学习建立水质健康预测模型](https://www.bilibili.com/video/BV1vb4y157qL/?)     | 水质 \| 纯净水 \| 矿泉水 \| 娃哈哈 \| 怡宝 \| 农夫山泉 \| 百岁山                     | 环境   |
+| 23.12.15 | [利用自动化机器学习建立英雄联盟预测模型](https://www.bilibili.com/video/BV1Se411k728/)      | 英雄联盟 \| 王者荣耀 \| LOL \|DOTA                                       | 游戏   |
+| 23.12.18 | [航班价格预测：回归任务进行自动化建模](https://www.bilibili.com/video/BV1Y94y1A7U4/)       | 航班 \| 航旅 \| 航司 \| 飞行员 \| 票务                                      | 旅游   |
+| 23.12.19 | [利用自动化机器学习建立设备故障预测模型](https://www.bilibili.com/video/BV1xc411y7yX/)      | 转速 \| 扭矩 \| 磨损 \| 温度 \| 湿度                                       | 运维   |
+| 23.12.20 | [利用自动化机器学习建立电梯维护预测模型](https://www.bilibili.com/video/BV1oG411r7Mn)       | 电梯 \| 扶梯 \| 垂直电梯                                                 | 运维   |
+| 23.12.21 | [利用自动化机器学习建立汽车引擎健康预测](https://www.bilibili.com/video/BV1E64y1W7RU/)      | 引擎 \| 发动机 \| 油车 \| 电车                                            | 运维   |
+| 23.12.22 | [利用自动化机器学习建立军舰健康维护预测](https://www.bilibili.com/video/BV17C4y1u7gu/)      | 故障 \| 军舰 \| 设备 \| 运维                                             | 运维   |
+| 23.12.25 | [利用自动化机器学习建立心力衰竭预测模型](https://www.bilibili.com/video/BV1bb4y1G7nk/)      | 心力衰竭 \| 心脏病 \| 早搏                                                | 医疗   |
+| 23.12.26 | [利用自动化机器学习建立糖尿病预测模型](https://www.bilibili.com/video/BV1hw41157pa/)       | 糖尿病 \| 糖原 \| 血糖 \| 胰岛素                                           | 医疗   |
+| 23.12.27 | [利用自动化机器学习建立肺癌风险预测模型](https://www.bilibili.com/video/BV1Hw41157gb/)      | 肺癌 \| 抽烟 \| 二手烟 \| 咽喉癌                                           | 医疗   |
+| 23.12.28 | [利用自动化机器学习建立肝硬化存活预测模型](https://www.bilibili.com/video/BV12g4y1k7XT/)     | 肝 \| 脾 \| 胃 \| 心 \| 肾                                            | 医疗   |
+| 23.12.29 | [利用自动化机器学习建立甲状腺癌症预测模型](https://www.bilibili.com/video/BV1Fg4y1C7wN/)     | 医疗 \| 甲状腺 \| 结节 \| 癌症                                            | 医疗   |
+| 24.01.02 | [利用自动化机器学习建立分析师工资预测模型](https://www.bilibili.com/video/BV1xg4y1r7fs/)     | BOSS直聘 \| 毕业 \| 失业 \| 猎聘                                         | 就业   |
+| 24.01.03 | [利用自动化机器学习建立银行存款预测模型](https://www.bilibili.com/video/BV1W5411z7dF/)      | 金融 \| 银行 \| 贷款 \| 理财                                             | 营销   |
+| 24.01.04 | [利用自动化机器学习建立睡眠质量预测模型](https://www.bilibili.com/video/BV1v5411q7Y6/)      | 医疗 \| 睡眠 \| 眼动 \| 深度睡眠                                           | 健康   |
+| 24.01.05 | [利用自动化机器学习建立房屋价格模型](https://www.bilibili.com/video/BV1XT4y1H7D8/)        | 二手房 \| 新房 \| 房价预测                                                | 资产评估 |
+| 24.01.09 | [利用自动化机器学习建立研究生录取预测模型](https://www.bilibili.com/video/BV1oe411e7gE/)     | 高考 \| 考研 \| 留学 \| 出国                                             | 教育   |
+| 24.01.10 | [利用自动化机器学习建立耗电量时序预测模型](https://www.bilibili.com/video/BV1zN4y1v7iE/)     | kaggle \| 耗电量 \| 发电站 \| 风电                                       | 能源   |
+| 24.01.11 | [利用自动化机器学习建立旅游险投保预测模型](https://www.bilibili.com/video/BV1Mt4y1o7Py/)     | 投保 \| 道德风险 \| 逆向选择                                               | 保险精算 |
+| 24.01.15 | [利用自动化机器学习建立比特币价格预测模型](https://www.bilibili.com/video/BV1S94y1N7LF/)     | kaggle \| 数字货币\| 以太坊 \| 币安                                       | 金融   |
+| 24.01.16 | [利用自动化机器学习建立股票价格预测模型](https://www.bilibili.com/video/BV1Te41117zF/)      | kaggle \| 股票 \| 量化投资                                             | 金融   |
+| 24.01.19 | [大数据扫黄识别！自动化建模实战案例模拟](https://www.bilibili.com/video/BV1eQ4y1w7o1/)      | 按摩 \| 商K \| 开房 \| 会所 \| 小姐                                       | 公共安全 |
+| 24.02.23 | [Python自动化机器学习建模之股票涨跌预测](https://www.bilibili.com/video/BV1t1421Z782/)   | 数字货币 \| 股票 \| 投资                                                 | 金融   |
+| 24.04.15 | [使用自动化建模工具进行钢板缺陷检测](https://www.bilibili.com/video/BV1Jm411m7TC/)        | 冶金 \| 高炉 \| 转炉 \| 连铸 \| 目标检测 \| 钢铁 \| 铁锈                         | 冶金   |
+| 24.04.29 | [3D打印粗糙度预测](https://www.bilibili.com/video/BV1yH4y1V7Ns/)                | 增材制造 \| 点云 \| 熔丝 \| 粗糙度                                          | 增材制造 |
+| 24.05.08 | [反欺诈案件侦破：规则引擎VS机器学习？](https://www.bilibili.com/video/BV1bZ421E7tq/)      | 逃税 \| 经侦 \| 公安 \| 反欺诈 \| 破案                                      | 公共安全 |
+| 24.06.19 | [AI离婚原因识别，调查问卷还能这么用？](https://www.bilibili.com/video/BV1Mx4y187wX/)      | 问卷星 \| 低代码 \| 模型建立                                               | 问卷调查 |
+| 24.06.24 | [用拉曼光谱+机器学习实现精准初筛COVID-19](https://www.bilibili.com/video/BV1Wx4y1t7eZ/) | 冠病毒 \| 光谱 \| 初筛 \| 方差分析 \| 蛋白质 \| 生物分子                           | 光谱分析 |
+| 24.07.03 | [AI也能看懂心电图？心律不齐模型预测](https://www.bilibili.com/video/BV1jW421d7zM/)       | ECG \| 峰值 \| 人工智能 \| 机器学习 \| 心电图 \| MIT-BIH \| 电信号               | 信号分析 |
+| 24.07.05 | [量化投资中机器学习的应用思路](https://www.bilibili.com/video/BV1A4421U76r/)           | 数字货币 \| 股票 \| 期货 \| 高频 \| CTA \| tick                            | 金融   |
+| 24.07.12 | [人工智能DNA启动子识别预测](https://www.bilibili.com/video/BV16i421Y7qY/)           | DNA启动子识别预测 \| 生命科学 \| RNA \| 蛋白质 \| 分子 \| 转录 \| 翻译               | 基因工程 |
+| 24.07.19 | [用机器学习加速新药筛选研发](https://www.bilibili.com/video/BV1Kf421i76L/)            | AQI \| 环境工程 \| 环境治理 \| 能见度 \| 大气压 \| 风速 \| 印度 \| 新德里             | 生物制药 |
+| 24.07.25 | [用人工智能进行PM2.5空气污染物预测](https://www.bilibili.com/video/BV1qE421F7D6/)      | DEL \| rdkit \| 摩根指纹 \| SMILES \| 靶蛋白 \| 高通量 \| DNA \| bindingdb | 环境   |
 
 # 📝采访记录
 
@@ -27,7 +78,7 @@
 
 分享资料：参考本项目下的[documents](./documents)文件夹。
 
-视频资料：在[学科知识](#🔬学科知识)对应的学科目录下
+视频资料：在[学科知识](#学科知识)对应的学科目录下
 
 # 🔬学科知识
 
@@ -35,7 +86,7 @@
 
 ## 环境经济学
 
-**采访视频**：环境经济学-陈同学 https://www.bilibili.com/video/BV1qw4m1R73K/
+**采访视频**：[河海大学陈同学：环境经济学中人工智能的应用](https://www.bilibili.com/video/BV1qw4m1R73K/)
 
 **研究目标**：环境经济学是指运用经济科学与环境科学的原理和方法，这就这里面就体现了环境经济，它本身也是一种交叉学科的一种一种延伸，分析经济发展与环境保护的矛盾以及经济再生产人口再生产和自然再生产这三者之间的联系。选择经济合理的物质变换方式以使用最小的劳动消耗为人类创造清洁、舒适、优美的生活和工作环境。
 
@@ -65,7 +116,7 @@
 
 ## 钢铁冶金
 
-**采访视频**：钢铁冶金-宋同学 https://www.bilibili.com/video/BV1wz421f7Rj/
+**采访视频**：[东北大学宋同学：钢铁冶金与AI人工智能技术](https://www.bilibili.com/video/BV1wz421f7Rj/)
 
 **研究目标**：面向国家重大工程与重点项目，通过冶金过程的智能化、绿色化、高效化，发展先进金属材料的制备技术；面向国民经济主战场，打造绿色、智能与材料冶金技术，最大限度地减少冶金工艺过程的资源和能源消耗，实现对冶金资源的高值化利用；面向国际前沿，围绕先进金属材料、冶金过程的前沿理论，构建多学科交融理论体系。
 
@@ -109,7 +160,7 @@
 
 ## 水产行业
 
-**采访视频**：水产行业-于同学 https://www.bilibili.com/video/BV1Kx4y1m7Ki/
+**采访视频**：[中国海洋大学于同学：水产行业中人工智能技术的运用](https://www.bilibili.com/video/BV1Kx4y1m7Ki/)
 
 **学科定义**：水产学是一门研究水域环境中经济动植物捕捞、增养殖与理论与工程技术的综合性国家一级学科。水产或者渔业的英文是 “Aquaculture”或“Fisheries” 。简而言之，即利用“水域资源”，开展“鱼、虾、贝、藻”等水生动植物的生产。按照渔业生产水域的不同，被划分为海洋渔业、淡水渔业。根据生产方式的不同，被划分为捕捞渔业和水产养殖。
 
@@ -175,7 +226,7 @@
 
 ## 材料学科
 
-**采访视频**：材料学科-季同学 https://www.bilibili.com/video/BV1LD421s7gv/
+**采访视频**：[东华大学季同学：材料学科中人工智能技术的运用](https://www.bilibili.com/video/BV1LD421s7gv/)
 
 **学科定义**：材料科学是一门研究材料的结构、性质、制备和应用的学科。它涵盖了从原子、分子层面到宏观物质的各种性质和特征的研究，旨在开发新材料，改进现有材料的性能，并探索材料在各种应用领域的潜在用途。
 
@@ -205,7 +256,7 @@
 
 ## 金融学科
 
-**采访视频**：金融学科-于同学 https://www.bilibili.com/video/BV1nJ4m1H73n/
+**采访视频**：[对外经济贸易大学于同学：金融学科中人工智能的应用介绍](https://www.bilibili.com/video/BV1nJ4m1H73n/)
 
 **研究方向**：宏观：货币政策、国际金融、金融监管；中观：资本市场，如银行、证券、保险、基金等；微观：公司金融、家庭金融。
 
@@ -265,7 +316,7 @@
 
 ## 3D打印学科
 
-**采访视频**：3D打印学科-卢同学 https://www.bilibili.com/video/BV1bC411H7tf/
+**采访视频**：[吉林大学卢同学：3D打印中人工智能的应用介绍](https://www.bilibili.com/video/BV1bC411H7tf/)
 
 **学科定义**：增材制造（Additive Manufacturing，简称AM），俗称3D打印，是一种基于数字模型文件，通过逐层添加材料来制造实体物品的技术。它融合了计算机辅助设计、材料加工与成型技术，以数字模型文件为基础，通过软件与数控系统将专用的金属材料、非金属材料以及医用生物材料等，按照挤压、烧结、熔融、光固化、喷射等方式逐层堆积，从而制造出实体物品。
 
@@ -311,7 +362,7 @@
 
 ## 集成电路-失效分析
 
-**采访视频**：集成电路-刘同学 https://www.bilibili.com/video/BV1nz42117MX/：
+**采访视频**：[哈尔滨工业大学刘同学：集成电路行业中人工智能技术的运用](https://www.bilibili.com/video/BV1nz42117MX/)
 
 **行业位置**：那么集成电路行业呢从源头来看的话主要是芯片设计，然后呢会把设计图纸给这个晶圆厂进行晶圆的生产。然后那个晶圆厂生产好之后呢，会把晶圆送到封测厂进行封装，最后做测试。那么在整个这些生产工艺的过程中，包括生产出来之后的成品都会进行一些测试。那么测试呢就会产生一些不良，也就是达不到测试的要求产品。那么这个东西呢是不能卖给客户的，所以呢要在这个厂内进行一些销毁或者是我们叫lose掉，就是淘汰掉。那么中间产生出来的这些不良品呢，我们把它称为reject，rejection的意思。然后这些不良品就会做这个失效分析。
 
@@ -336,7 +387,7 @@
 
 ## 脑科学-脑影像
 
-**采访视频**：脑科学-江同学 https://www.bilibili.com/video/BV1A7421Z7Sj/
+**采访视频**：[上海交通大学江同学：脑科学中人工智能技术的运用](https://www.bilibili.com/video/BV1A7421Z7Sj/)
 
 **研究目标**：在我们现行的教育体系当中最相近的专业可能就是有两个，那一个是这个生物医学工程，还有一个是这个心理学。那么生物医学工程它主要偏向的可能是跟脑部相关的一些疾病，会去研究脑相关的主要可能是跟脑紧密结合的疾病，比如说可能有一些这个脑卒中也就是俗称的中风，还有脑肿瘤，还有一些神经神经的疾病包括一些精神分裂、抑郁症之类的这种精神类疾病。它是跟医学可能紧密程度会高一点，那么心理学的话呢它主要是探究脑的这个认知功能，所以说其实这两个专业都是跟这个脑呢特别相关。分享人这边主要是偏向前者，但是从底层的科研上来说呢，去探究脑的功能其实也是相通的，所以说我们可能有类似的一套这个方法，有类似的一些工具处理技术。所以说这两个其实还是汇聚到一起了。
 
@@ -360,7 +411,7 @@
 
 ## 核医学
 
-**采访视频**：核医学-陆同学 https://www.bilibili.com/video/BV16w4m1i73V/
+**采访视频**：[桂林医学院陆同学：核医学中人工智能技术的应用](https://www.bilibili.com/video/BV16w4m1i73V/)
 
 **学科定义及范畴**：核医学是利用放射性同位素产生的核辐射来诊断、治疗疾病以及进行医学研究的学科。包括临床核医学和基础核医学两大领域。临床核医学主要涉及核素诊断与治疗，如放射性核素显像、功能测定等；基础核医学则侧重于放射性核素在生物医学领域的应用研究，如放射性核素示踪技术等。
 
@@ -378,9 +429,102 @@
 
 - [基于增强CT影像组学预测甲状腺乳头状癌BRAFV600E突变](https://www.zhangqiaokeyan.com/academic-journal-cn_labeled-immunoassays-clinical-medicine_thesis/02012115719926.html)
 
+# AI知识
+
+## 思考/误区
+
+- [科研领域，除了深度学习我们还能干嘛？](https://www.bilibili.com/video/BV1pu4y1b7si/)
+
+- [用AI工具轻松搞定论文选题，科研无忧！](https://www.bilibili.com/video/BV1x64y1L7Rf/)
+
+- [如何回答《好事成双》中深度学习的可解释性问题？](https://www.bilibili.com/video/BV1tN4y1e7uD/)
+
+- [别再无脑用深度学习进行建模！](https://www.bilibili.com/video/BV1ga4y197af/)
+
+- [从顶刊论文中关于机器学习模型和物理估计模型之间的一点思考](https://www.bilibili.com/video/BV1W64y1A7uv/)
+
+- [利用好特征工程加机器学习能够拟合物理规律的特性，辅助科研！](https://www.bilibili.com/video/BV1vT4y1b7ZV/)
+
+- [缺陷检测任务只能用纯图像识别吗？](https://www.bilibili.com/video/BV1im421x7xd/)
+
+- [反欺诈案件侦破：规则引擎VS机器学习？](https://www.bilibili.com/video/BV1bZ421E7tq/)
+
+- [光谱分析为什么需要自动化机器学习工具？](https://www.bilibili.com/video/BV13E421N79y/)
+
+- [Python复现列线图源码教学](https://www.bilibili.com/video/BV1yw4m1v7yA/)
+
+- [机器学习应用中可解释性的几个层次](https://www.bilibili.com/video/BV16J4m1A7mR/)
+
+- [非结构化数据如何应用经典机器学习方法](https://www.bilibili.com/video/BV1Hy411i7S1/)
+
+- [大模型小学算术都不会，还能做机器学习吗？](https://www.bilibili.com/video/BV1XH4y1w7dA/)
+
+- [科研人员注意！机器学习的调参很重要](https://www.bilibili.com/video/BV1rm421g7Ht/)
+
+## 初级知识
+
+- [机器学习基础概念：任务分类、结构化数据](https://www.bilibili.com/video/BV1xQ4y1A7Q4)
+
+- [Python环境搭建：编程语言和开发环境的概念](https://www.bilibili.com/video/BV1xk4y1S7QP)
+
+- [机器学习如同厨房做菜？深度类比分析建模流程，清晰易懂](https://www.bilibili.com/video/BV1b4421A7G8)
+
+- [新手常见误区：Python的浅拷贝和内存机制](https://www.bilibili.com/video/BV1p642137d7)
+
+- [用Python面向对象来灵活构建类和实例](https://www.bilibili.com/video/BV1Xp421o7sp) 
+
+- [Pandas真能全部替代Excel吗？详细对比！](https://www.bilibili.com/video/BV1qF4m1T7d6) 
+
+- [快速可视化！Pandas内置图表展示](https://www.bilibili.com/video/BV1cC41167tg)  
+
+- [统计可视化神器：Seaborn图表大赏](https://www.bilibili.com/video/BV1qK421C7M2) 
+
+- [Pandas高级技巧：双重索引和多维操作！](https://www.bilibili.com/video/BV1i7421N78P) 
+
+- [解析Python中奇怪的空值，比较Pandas和Numpy的异同！](https://www.bilibili.com/video/BV1f2421T7yp) 
+
+- [标准化预处理和数据分布的那些事](https://www.bilibili.com/video/BV1S2421T7R6) 
+
+- [如何用枚举型特征进行特征构造？](https://www.bilibili.com/video/BV1Wx421273j)
+
+- [使用IV值来对类别标签进行有效性评估](https://www.bilibili.com/video/BV1ux4y1k7g8)
+
+- [分类算法的逻辑回归为什么带有回归？](https://www.bilibili.com/video/BV1Vy421i7JK)
+
+- [学习决策树算法，科学智慧决策](https://www.bilibili.com/video/BV1r2421K7Aj)
+
+- [随机森林的命名解析，何为随机？何为森林？](https://www.bilibili.com/video/BV1mz421f7QT)
+
+- [XGBoost/LightGBM/CatBoost三大算法比较](https://www.bilibili.com/video/BV1ht421G7kr)
+
+- [auto-sklearn自动化机器学习框架介绍](https://www.bilibili.com/video/BV1NH4y1H7RZ)
+
+- [Featuretools自动化特征工程框架介绍](https://www.bilibili.com/video/BV1yx4y1m7Ze)
+
+## 前沿理论
+
+- [AI4S 01 | AI-for-science的主要领域与基本思想方法](https://www.bilibili.com/video/BV1sN4y167Qd/)
+
+- [AI4S 02 | 自动化特征工程简介与研究进展](https://www.bilibili.com/video/BV1rH4y127Vq/)
+
+- [AI4S 03 | 时间序列机器学习值得注意的研究发现](https://www.bilibili.com/video/BV1pW4y1w7EB/)
+
+## 教程推荐
+
+- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)：优秀机器学习 YouTube 课程集合，网友整理了 YouTube 上一些最好的和最新的机器学习/人工智能课程，包括机器学习、深度学习、自然语言处理、计算机视觉、多任务学习等等。
+
+- [低门槛通关！Pyhon机器学习自动化建模实战]([哔哩哔哩_bilibili](https://www.bilibili.com/cheese/play/ss10688))：逸思长天团队研发的**帮助非计算机专业同学快速入门上手机器学习的课程**，内容涵盖了环境搭建、理论讲解、代码实战，目前已经在B站上架。
+
 # AI工具
 
 - **长天ML自动化建模平台**：零代码建模，降低非计算机专业同学的使用成本。简单配置即可进行自动化特征工程、自动化模型选择和超参调优，并能快速部署上线，建模过程完全免费，高级功能可通过邀请好友的形式获取免费次卡，或付费包月或加入社群参与活动。[官网](https://changtianml.com/) [注册地址](https://changtianml.com/register?code=gJKeasrbu+JDNZ3XYLpZDw==)
+  
+  **教程：**
+  - [爆炸性效率！用自动化建模工具轻松打造人工智能模型！](https://www.bilibili.com/video/BV1Rw411N7e7)
+  
+  - [时间序列新版发布！无需编程，自动构造人工智能模型，生成建模报告！](https://www.bilibili.com/video/BV1j64y1J7GK)
+  
+  - [模型复现功能升级！自动化建模工具平台，指定数据集分割、指定算法调优，论文复现科研实验更加丝滑！](https://www.bilibili.com/video/BV1Ux4y1n7Tn)
 
 # 参与贡献
 
