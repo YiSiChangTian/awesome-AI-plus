@@ -17,7 +17,7 @@
 
 [学科知识](#学科知识)
 
-> [环境经济学](#环境经济学)、[钢铁冶金](#钢铁冶金)、[水产行业](#水产行业)、[材料学科](#材料学科)、[金融学科](#金融学科)、[3D打印学科](#3D打印学科)、[集成电路-失效分析](#集成电路-失效分析)、[脑科学-脑影像](#脑科学-脑影像)、[核医学](#核医学)
+> [环境经济学](#环境经济学)、[钢铁冶金](#钢铁冶金)、[水产行业](#水产行业)、[材料学科](#材料学科)、[金融学科](#金融学科)、[3D打印学科](#3D打印学科)、[集成电路-失效分析](#集成电路-失效分析)、[脑科学-脑影像](#脑科学-脑影像)、[核医学](#核医学)、[医疗健康](#医疗健康)
 
 [AI知识](#AI知识)
 
@@ -71,6 +71,7 @@
 | 24.07.12 | [人工智能DNA启动子识别预测](https://www.bilibili.com/video/BV16i421Y7qY/)           | DNA启动子识别预测 \| 生命科学 \| RNA \| 蛋白质 \| 分子 \| 转录 \| 翻译               | 基因工程 |
 | 24.07.19 | [用机器学习加速新药筛选研发](https://www.bilibili.com/video/BV1Kf421i76L/)            | AQI \| 环境工程 \| 环境治理 \| 能见度 \| 大气压 \| 风速 \| 印度 \| 新德里             | 生物制药 |
 | 24.07.25 | [用人工智能进行PM2.5空气污染物预测](https://www.bilibili.com/video/BV1qE421F7D6/)      | DEL \| rdkit \| 摩根指纹 \| SMILES \| 靶蛋白 \| 高通量 \| DNA \| bindingdb | 环境   |
+| 24.08.06 | [用AI人工智能守护腰椎健康](https://www.bilibili.com/video/BV1JkYNexE8k/)            | 脊椎滑脱 \| 腰椎间盘突出 \| 骨盆 \| 骶骨 \| 脊髓 \| 椎体                           | 医疗   |
 
 # 📝采访记录
 
@@ -429,6 +430,12 @@
 
 - [基于增强CT影像组学预测甲状腺乳头状癌BRAFV600E突变](https://www.zhangqiaokeyan.com/academic-journal-cn_labeled-immunoassays-clinical-medicine_thesis/02012115719926.html)
 
+## 医疗健康
+
+**采访视频**：[中国科学院大学Ali同学：医疗健康中人工智能技术的应用](https://www.bilibili.com/video/BV1sAY1e5EEf/)
+
+整理中，分享人PPT已经上传
+
 # AI知识
 
 ## 思考/误区
@@ -460,6 +467,8 @@
 - [大模型小学算术都不会，还能做机器学习吗？](https://www.bilibili.com/video/BV1XH4y1w7dA/)
 
 - [科研人员注意！机器学习的调参很重要](https://www.bilibili.com/video/BV1rm421g7Ht/)
+
+- [算法工程师不能说的秘密！特征工程到底有多重要](https://www.bilibili.com/video/BV1aU411U7bw/)
 
 ## 初级知识
 
@@ -520,6 +529,7 @@
 - **长天ML自动化建模平台**：零代码建模，降低非计算机专业同学的使用成本。简单配置即可进行自动化特征工程、自动化模型选择和超参调优，并能快速部署上线，建模过程完全免费，高级功能可通过邀请好友的形式获取免费次卡，或付费包月或加入社群参与活动。[官网](https://changtianml.com/) [注册地址](https://changtianml.com/register?code=gJKeasrbu+JDNZ3XYLpZDw==)
   
   **教程：**
+  
   - [爆炸性效率！用自动化建模工具轻松打造人工智能模型！](https://www.bilibili.com/video/BV1Rw411N7e7)
   
   - [时间序列新版发布！无需编程，自动构造人工智能模型，生成建模报告！](https://www.bilibili.com/video/BV1j64y1J7GK)
