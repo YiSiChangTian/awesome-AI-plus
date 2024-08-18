@@ -33,45 +33,45 @@
 
 | 日期       | 建模名称                                                                     | 类型标签                                                             | 行业   |
 | -------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------- | ---- |
-| 23.11.12 | [用户流失预警建模](https://www.bilibili.com/video/BV1ZC4y1776Q/)                 | 生命周期 \| LTV \| 沉睡 \| 唤醒                                          | 营销   |
-| 23.11.28 | [心脏病患者建模预测](https://www.bilibili.com/video/BV1XN411j7GQ/)                | 心脏病 \| 心脑血管 \| BMI \| CDC                                        | 医疗   |
-| 23.12.11 | [利用自动化机器学习建立酒店预定预测模型](https://www.bilibili.com/video/BV1DN4y1a7Q7/?)     | 酒店 \| 携程 \| 飞猪 \| 途牛 \| 去哪儿                                      | 旅游   |
-| 23.12.12 | [利用自动化机器学习建立公司破产预测模型](https://www.bilibili.com/video/BV1Bb4y157cG/)      | 破产 \| 重组 \| 违约 \| 清算                                             | 资产评估 |
-| 23.12.13 | [利用自动化机器学习建立中风患者预测模型](https://www.bilibili.com/video/BV1sw411t78c/)      | 中风 \| 卒中 \| 心脑血管 \| 猝死                                           | 医疗   |
-| 23.12.14 | [利用自动化机器学习建立水质健康预测模型](https://www.bilibili.com/video/BV1vb4y157qL/?)     | 水质 \| 纯净水 \| 矿泉水 \| 娃哈哈 \| 怡宝 \| 农夫山泉 \| 百岁山                     | 环境   |
-| 23.12.15 | [利用自动化机器学习建立英雄联盟预测模型](https://www.bilibili.com/video/BV1Se411k728/)      | 英雄联盟 \| 王者荣耀 \| LOL \|DOTA                                       | 游戏   |
-| 23.12.18 | [航班价格预测：回归任务进行自动化建模](https://www.bilibili.com/video/BV1Y94y1A7U4/)       | 航班 \| 航旅 \| 航司 \| 飞行员 \| 票务                                      | 旅游   |
-| 23.12.19 | [利用自动化机器学习建立设备故障预测模型](https://www.bilibili.com/video/BV1xc411y7yX/)      | 转速 \| 扭矩 \| 磨损 \| 温度 \| 湿度                                       | 运维   |
-| 23.12.20 | [利用自动化机器学习建立电梯维护预测模型](https://www.bilibili.com/video/BV1oG411r7Mn)       | 电梯 \| 扶梯 \| 垂直电梯                                                 | 运维   |
-| 23.12.21 | [利用自动化机器学习建立汽车引擎健康预测](https://www.bilibili.com/video/BV1E64y1W7RU/)      | 引擎 \| 发动机 \| 油车 \| 电车                                            | 运维   |
-| 23.12.22 | [利用自动化机器学习建立军舰健康维护预测](https://www.bilibili.com/video/BV17C4y1u7gu/)      | 故障 \| 军舰 \| 设备 \| 运维                                             | 运维   |
-| 23.12.25 | [利用自动化机器学习建立心力衰竭预测模型](https://www.bilibili.com/video/BV1bb4y1G7nk/)      | 心力衰竭 \| 心脏病 \| 早搏                                                | 医疗   |
-| 23.12.26 | [利用自动化机器学习建立糖尿病预测模型](https://www.bilibili.com/video/BV1hw41157pa/)       | 糖尿病 \| 糖原 \| 血糖 \| 胰岛素                                           | 医疗   |
-| 23.12.27 | [利用自动化机器学习建立肺癌风险预测模型](https://www.bilibili.com/video/BV1Hw41157gb/)      | 肺癌 \| 抽烟 \| 二手烟 \| 咽喉癌                                           | 医疗   |
-| 23.12.28 | [利用自动化机器学习建立肝硬化存活预测模型](https://www.bilibili.com/video/BV12g4y1k7XT/)     | 肝 \| 脾 \| 胃 \| 心 \| 肾                                            | 医疗   |
-| 23.12.29 | [利用自动化机器学习建立甲状腺癌症预测模型](https://www.bilibili.com/video/BV1Fg4y1C7wN/)     | 医疗 \| 甲状腺 \| 结节 \| 癌症                                            | 医疗   |
-| 24.01.02 | [利用自动化机器学习建立分析师工资预测模型](https://www.bilibili.com/video/BV1xg4y1r7fs/)     | BOSS直聘 \| 毕业 \| 失业 \| 猎聘                                         | 就业   |
-| 24.01.03 | [利用自动化机器学习建立银行存款预测模型](https://www.bilibili.com/video/BV1W5411z7dF/)      | 金融 \| 银行 \| 贷款 \| 理财                                             | 营销   |
-| 24.01.04 | [利用自动化机器学习建立睡眠质量预测模型](https://www.bilibili.com/video/BV1v5411q7Y6/)      | 医疗 \| 睡眠 \| 眼动 \| 深度睡眠                                           | 健康   |
-| 24.01.05 | [利用自动化机器学习建立房屋价格模型](https://www.bilibili.com/video/BV1XT4y1H7D8/)        | 二手房 \| 新房 \| 房价预测                                                | 资产评估 |
-| 24.01.09 | [利用自动化机器学习建立研究生录取预测模型](https://www.bilibili.com/video/BV1oe411e7gE/)     | 高考 \| 考研 \| 留学 \| 出国                                             | 教育   |
-| 24.01.10 | [利用自动化机器学习建立耗电量时序预测模型](https://www.bilibili.com/video/BV1zN4y1v7iE/)     | kaggle \| 耗电量 \| 发电站 \| 风电                                       | 能源   |
-| 24.01.11 | [利用自动化机器学习建立旅游险投保预测模型](https://www.bilibili.com/video/BV1Mt4y1o7Py/)     | 投保 \| 道德风险 \| 逆向选择                                               | 保险精算 |
-| 24.01.15 | [利用自动化机器学习建立比特币价格预测模型](https://www.bilibili.com/video/BV1S94y1N7LF/)     | kaggle \| 数字货币\| 以太坊 \| 币安                                       | 金融   |
-| 24.01.16 | [利用自动化机器学习建立股票价格预测模型](https://www.bilibili.com/video/BV1Te41117zF/)      | kaggle \| 股票 \| 量化投资                                             | 金融   |
-| 24.01.19 | [大数据扫黄识别！自动化建模实战案例模拟](https://www.bilibili.com/video/BV1eQ4y1w7o1/)      | 按摩 \| 商K \| 开房 \| 会所 \| 小姐                                       | 公共安全 |
-| 24.02.23 | [Python自动化机器学习建模之股票涨跌预测](https://www.bilibili.com/video/BV1t1421Z782/)   | 数字货币 \| 股票 \| 投资                                                 | 金融   |
-| 24.04.15 | [使用自动化建模工具进行钢板缺陷检测](https://www.bilibili.com/video/BV1Jm411m7TC/)        | 冶金 \| 高炉 \| 转炉 \| 连铸 \| 目标检测 \| 钢铁 \| 铁锈                         | 冶金   |
-| 24.04.29 | [3D打印粗糙度预测](https://www.bilibili.com/video/BV1yH4y1V7Ns/)                | 增材制造 \| 点云 \| 熔丝 \| 粗糙度                                          | 增材制造 |
-| 24.05.08 | [反欺诈案件侦破：规则引擎VS机器学习？](https://www.bilibili.com/video/BV1bZ421E7tq/)      | 逃税 \| 经侦 \| 公安 \| 反欺诈 \| 破案                                      | 公共安全 |
-| 24.06.19 | [AI离婚原因识别，调查问卷还能这么用？](https://www.bilibili.com/video/BV1Mx4y187wX/)      | 问卷星 \| 低代码 \| 模型建立                                               | 问卷调查 |
-| 24.06.24 | [用拉曼光谱+机器学习实现精准初筛COVID-19](https://www.bilibili.com/video/BV1Wx4y1t7eZ/) | 冠病毒 \| 光谱 \| 初筛 \| 方差分析 \| 蛋白质 \| 生物分子                           | 光谱分析 |
-| 24.07.03 | [AI也能看懂心电图？心律不齐模型预测](https://www.bilibili.com/video/BV1jW421d7zM/)       | ECG \| 峰值 \| 人工智能 \| 机器学习 \| 心电图 \| MIT-BIH \| 电信号               | 信号分析 |
-| 24.07.05 | [量化投资中机器学习的应用思路](https://www.bilibili.com/video/BV1A4421U76r/)           | 数字货币 \| 股票 \| 期货 \| 高频 \| CTA \| tick                            | 金融   |
-| 24.07.12 | [人工智能DNA启动子识别预测](https://www.bilibili.com/video/BV16i421Y7qY/)           | DNA启动子识别预测 \| 生命科学 \| RNA \| 蛋白质 \| 分子 \| 转录 \| 翻译               | 基因工程 |
-| 24.07.19 | [用机器学习加速新药筛选研发](https://www.bilibili.com/video/BV1Kf421i76L/)            | AQI \| 环境工程 \| 环境治理 \| 能见度 \| 大气压 \| 风速 \| 印度 \| 新德里             | 生物制药 |
-| 24.07.25 | [用人工智能进行PM2.5空气污染物预测](https://www.bilibili.com/video/BV1qE421F7D6/)      | DEL \| rdkit \| 摩根指纹 \| SMILES \| 靶蛋白 \| 高通量 \| DNA \| bindingdb | 环境   |
 | 24.08.06 | [用AI人工智能守护腰椎健康](https://www.bilibili.com/video/BV1JkYNexE8k/)            | 脊椎滑脱 \| 腰椎间盘突出 \| 骨盆 \| 骶骨 \| 脊髓 \| 椎体                           | 医疗   |
+| 24.07.25 | [用人工智能进行PM2.5空气污染物预测](https://www.bilibili.com/video/BV1qE421F7D6/)      | DEL \| rdkit \| 摩根指纹 \| SMILES \| 靶蛋白 \| 高通量 \| DNA \| bindingdb | 环境   |
+| 24.07.19 | [用机器学习加速新药筛选研发](https://www.bilibili.com/video/BV1Kf421i76L/)            | AQI \| 环境工程 \| 环境治理 \| 能见度 \| 大气压 \| 风速 \| 印度 \| 新德里             | 生物制药 |
+| 24.07.12 | [人工智能DNA启动子识别预测](https://www.bilibili.com/video/BV16i421Y7qY/)           | DNA启动子识别预测 \| 生命科学 \| RNA \| 蛋白质 \| 分子 \| 转录 \| 翻译               | 基因工程 |
+| 24.07.05 | [量化投资中机器学习的应用思路](https://www.bilibili.com/video/BV1A4421U76r/)           | 数字货币 \| 股票 \| 期货 \| 高频 \| CTA \| tick                            | 金融   |
+| 24.07.03 | [AI也能看懂心电图？心律不齐模型预测](https://www.bilibili.com/video/BV1jW421d7zM/)       | ECG \| 峰值 \| 人工智能 \| 机器学习 \| 心电图 \| MIT-BIH \| 电信号               | 信号分析 |
+| 24.06.24 | [用拉曼光谱+机器学习实现精准初筛COVID-19](https://www.bilibili.com/video/BV1Wx4y1t7eZ/) | 冠病毒 \| 光谱 \| 初筛 \| 方差分析 \| 蛋白质 \| 生物分子                           | 光谱分析 |
+| 24.06.19 | [AI离婚原因识别，调查问卷还能这么用？](https://www.bilibili.com/video/BV1Mx4y187wX/)      | 问卷星 \| 低代码 \| 模型建立                                               | 问卷调查 |
+| 24.05.08 | [反欺诈案件侦破：规则引擎VS机器学习？](https://www.bilibili.com/video/BV1bZ421E7tq/)      | 逃税 \| 经侦 \| 公安 \| 反欺诈 \| 破案                                      | 公共安全 |
+| 24.04.29 | [3D打印粗糙度预测](https://www.bilibili.com/video/BV1yH4y1V7Ns/)                | 增材制造 \| 点云 \| 熔丝 \| 粗糙度                                          | 增材制造 |
+| 24.04.15 | [使用自动化建模工具进行钢板缺陷检测](https://www.bilibili.com/video/BV1Jm411m7TC/)        | 冶金 \| 高炉 \| 转炉 \| 连铸 \| 目标检测 \| 钢铁 \| 铁锈                         | 冶金   |
+| 24.02.23 | [Python自动化机器学习建模之股票涨跌预测](https://www.bilibili.com/video/BV1t1421Z782/)   | 数字货币 \| 股票 \| 投资                                                 | 金融   |
+| 24.01.19 | [大数据扫黄识别！自动化建模实战案例模拟](https://www.bilibili.com/video/BV1eQ4y1w7o1/)      | 按摩 \| 商K \| 开房 \| 会所 \| 小姐                                       | 公共安全 |
+| 24.01.16 | [利用自动化机器学习建立股票价格预测模型](https://www.bilibili.com/video/BV1Te41117zF/)      | kaggle \| 股票 \| 量化投资                                             | 金融   |
+| 24.01.15 | [利用自动化机器学习建立比特币价格预测模型](https://www.bilibili.com/video/BV1S94y1N7LF/)     | kaggle \| 数字货币\| 以太坊 \| 币安                                       | 金融   |
+| 24.01.11 | [利用自动化机器学习建立旅游险投保预测模型](https://www.bilibili.com/video/BV1Mt4y1o7Py/)     | 投保 \| 道德风险 \| 逆向选择                                               | 保险精算 |
+| 24.01.10 | [利用自动化机器学习建立耗电量时序预测模型](https://www.bilibili.com/video/BV1zN4y1v7iE/)     | kaggle \| 耗电量 \| 发电站 \| 风电                                       | 能源   |
+| 24.01.09 | [利用自动化机器学习建立研究生录取预测模型](https://www.bilibili.com/video/BV1oe411e7gE/)     | 高考 \| 考研 \| 留学 \| 出国                                             | 教育   |
+| 24.01.05 | [利用自动化机器学习建立房屋价格模型](https://www.bilibili.com/video/BV1XT4y1H7D8/)        | 二手房 \| 新房 \| 房价预测                                                | 资产评估 |
+| 24.01.04 | [利用自动化机器学习建立睡眠质量预测模型](https://www.bilibili.com/video/BV1v5411q7Y6/)      | 医疗 \| 睡眠 \| 眼动 \| 深度睡眠                                           | 健康   |
+| 24.01.03 | [利用自动化机器学习建立银行存款预测模型](https://www.bilibili.com/video/BV1W5411z7dF/)      | 金融 \| 银行 \| 贷款 \| 理财                                             | 营销   |
+| 24.01.02 | [利用自动化机器学习建立分析师工资预测模型](https://www.bilibili.com/video/BV1xg4y1r7fs/)     | BOSS直聘 \| 毕业 \| 失业 \| 猎聘                                         | 就业   |
+| 23.12.29 | [利用自动化机器学习建立甲状腺癌症预测模型](https://www.bilibili.com/video/BV1Fg4y1C7wN/)     | 医疗 \| 甲状腺 \| 结节 \| 癌症                                            | 医疗   |
+| 23.12.28 | [利用自动化机器学习建立肝硬化存活预测模型](https://www.bilibili.com/video/BV12g4y1k7XT/)     | 肝 \| 脾 \| 胃 \| 心 \| 肾                                            | 医疗   |
+| 23.12.27 | [利用自动化机器学习建立肺癌风险预测模型](https://www.bilibili.com/video/BV1Hw41157gb/)      | 肺癌 \| 抽烟 \| 二手烟 \| 咽喉癌                                           | 医疗   |
+| 23.12.26 | [利用自动化机器学习建立糖尿病预测模型](https://www.bilibili.com/video/BV1hw41157pa/)       | 糖尿病 \| 糖原 \| 血糖 \| 胰岛素                                           | 医疗   |
+| 23.12.25 | [利用自动化机器学习建立心力衰竭预测模型](https://www.bilibili.com/video/BV1bb4y1G7nk/)      | 心力衰竭 \| 心脏病 \| 早搏                                                | 医疗   |
+| 23.12.22 | [利用自动化机器学习建立军舰健康维护预测](https://www.bilibili.com/video/BV17C4y1u7gu/)      | 故障 \| 军舰 \| 设备 \| 运维                                             | 运维   |
+| 23.12.21 | [利用自动化机器学习建立汽车引擎健康预测](https://www.bilibili.com/video/BV1E64y1W7RU/)      | 引擎 \| 发动机 \| 油车 \| 电车                                            | 运维   |
+| 23.12.20 | [利用自动化机器学习建立电梯维护预测模型](https://www.bilibili.com/video/BV1oG411r7Mn)       | 电梯 \| 扶梯 \| 垂直电梯                                                 | 运维   |
+| 23.12.19 | [利用自动化机器学习建立设备故障预测模型](https://www.bilibili.com/video/BV1xc411y7yX/)      | 转速 \| 扭矩 \| 磨损 \| 温度 \| 湿度                                       | 运维   |
+| 23.12.18 | [航班价格预测：回归任务进行自动化建模](https://www.bilibili.com/video/BV1Y94y1A7U4/)       | 航班 \| 航旅 \| 航司 \| 飞行员 \| 票务                                      | 旅游   |
+| 23.12.15 | [利用自动化机器学习建立英雄联盟预测模型](https://www.bilibili.com/video/BV1Se411k728/)      | 英雄联盟 \| 王者荣耀 \| LOL \|DOTA                                       | 游戏   |
+| 23.12.14 | [利用自动化机器学习建立水质健康预测模型](https://www.bilibili.com/video/BV1vb4y157qL/?)     | 水质 \| 纯净水 \| 矿泉水 \| 娃哈哈 \| 怡宝 \| 农夫山泉 \| 百岁山                     | 环境   |
+| 23.12.13 | [利用自动化机器学习建立中风患者预测模型](https://www.bilibili.com/video/BV1sw411t78c/)      | 中风 \| 卒中 \| 心脑血管 \| 猝死                                           | 医疗   |
+| 23.12.12 | [利用自动化机器学习建立公司破产预测模型](https://www.bilibili.com/video/BV1Bb4y157cG/)      | 破产 \| 重组 \| 违约 \| 清算                                             | 资产评估 |
+| 23.12.11 | [利用自动化机器学习建立酒店预定预测模型](https://www.bilibili.com/video/BV1DN4y1a7Q7/?)     | 酒店 \| 携程 \| 飞猪 \| 途牛 \| 去哪儿                                      | 旅游   |
+| 23.11.28 | [心脏病患者建模预测](https://www.bilibili.com/video/BV1XN411j7GQ/)                | 心脏病 \| 心脑血管 \| BMI \| CDC                                        | 医疗   |
+| 23.11.12 | [用户流失预警建模](https://www.bilibili.com/video/BV1ZC4y1776Q/)                 | 生命周期 \| LTV \| 沉睡 \| 唤醒                                          | 营销   |
 
 # 📝采访记录
 
@@ -434,7 +434,52 @@
 
 **采访视频**：[中国科学院大学Ali同学：医疗健康中人工智能技术的应用](https://www.bilibili.com/video/BV1sAY1e5EEf/)
 
-整理中，分享人PPT已经上传
+**AI+目的**：
+
+- 诊断（癌症、乳腺肿瘤、肺部感染、抑郁症、自杀风险、心血管问题等）
+- 问答（与健康、医疗、身体健康等相关的问题）
+- 分析
+- 治疗和计划（个性化药物和建议）
+- 决策（医院中关于患者的决策，包括癌症、糖尿病等）
+- 报告生成（出院总结、健康报告等）
+
+**工具网站**：
+
+- Hugging Face (find LLMs, datasets, etc., )
+
+- UK Biobank (Health Research Database)
+
+- Physionet (The Research Resource for Complex Physiologic
+  Signals)
+
+- Google Colab (run code in clouds)
+
+- Kaggle (learn from others’ code, and run code in clouds)
+
+- GitHub
+
+**顶级期刊**：
+
+- Nature Biomedical Engineering
+
+- IEEE Transactions on Biomedical Engineering
+
+- IEEE TRANSACTIONS ON MEDICAL IMAGING
+
+- MEDICAL IMAGE ANALYSIS
+
+- IEEE Transactions on Microwave Theory and Techniques
+
+- IEEE Transactions on Neural Networks and Learning Systems
+
+**人工智能+成果**（详见Ali交流的PPT文件）：
+
+- 用例 1：用于乳腺癌诊断的 AI
+- 用例 2：用于睡眠监测的 AI（使用多导睡眠图 PSG）
+- 用例 3：用于非接触式睡眠监测的 AI（使用信号）
+- 用例 4：用于无创血压监测的 AI
+- 用例 5：用于健康分析和报告生成的 AI
+- 用例 6：用于心理健康护理的 AI
 
 # AI知识
 
@@ -469,6 +514,8 @@
 - [科研人员注意！机器学习的调参很重要](https://www.bilibili.com/video/BV1rm421g7Ht/)
 
 - [算法工程师不能说的秘密！特征工程到底有多重要](https://www.bilibili.com/video/BV1aU411U7bw/)
+
+- [科研必看方法论！AI for science 两大范式](https://www.bilibili.com/video/BV1BGe4eJEA8/)
 
 ## 初级知识
 
